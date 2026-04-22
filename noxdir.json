@@ -1,0 +1,29 @@
+{
+    "version": "1.2.0",
+    "architecture": {
+        "32bit": {
+            "url": "https://github.com/crumbyte/noxdir/releases/download/v1.2.0/noxdir-v1.2.0-Windows_i386.zip",
+            "bin": [
+                "noxdir.exe"
+            ],
+            "hash": "50121a758ec2ec0df64456d4df4f4742f9390efcee29ad66300104cc2b65f368"
+        },
+        "64bit": {
+            "url": "https://github.com/crumbyte/noxdir/releases/download/v1.2.0/noxdir-v1.2.0-Windows_x86_64.zip",
+            "bin": [
+                "noxdir.exe"
+            ],
+            "hash": "59100e027b0beff4c897fe47905d07fce5b418e510fcff179b64d50c031a4485"
+        },
+        "arm64": {
+            "url": "https://github.com/crumbyte/noxdir/releases/download/v1.2.0/noxdir-v1.2.0-Windows_arm64.zip",
+            "bin": [
+                "noxdir.exe"
+            ],
+            "hash": "69628c89abffcd06c64bf0bab6f69ac697c7fa0c8226eac5a4a810e9af8e3cb3"
+        }
+    },
+    "homepage": "https://github.com/crumbyte/noxdir",
+    "license": "MIT",
+    "description": "Terminal utility for visualizing file system usage."
+}
